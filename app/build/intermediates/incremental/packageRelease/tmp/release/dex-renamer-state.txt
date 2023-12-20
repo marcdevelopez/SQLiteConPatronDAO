@@ -1,0 +1,4 @@
+#Thu Jul 02 19:16:33 CEST 2020
+base.0=/home/marcos/MisDocumentosEnMega/FORMACION_PROPIA_CURSOS/1_ANDROID/work_space_AndroidStudio/SQLiteConPatronDAO/app/build/intermediates/dex/release/mergeDexRelease/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "com.mundobinario.sqliteconpatrondao.app-merged_res-9:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.mundobinario.sqliteconpatrondao.app-main-11:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.mundobinario.sqliteconpatrondao.app-merged_res-9:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.mundobinario.sqliteconpatrondao.app-main-11:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.mundobinario.sqliteconpatrondao.app-merged_res-9:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.mundobinario.sqliteconpatrondao.app-main-11:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.mundobinario.sqliteconpatrondao.app-merged_res-9:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.mundobinario.sqliteconpatrondao.app-main-11:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.mundobinario.sqliteconpatrondao.app-merged_res-9:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.mundobinario.sqliteconpatrondao.app-main-11:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.mundobinario.sqliteconpatrondao.app-merged_res-9:/font_great_vibes.xml.flat",
+        "source": "com.mundobinario.sqliteconpatrondao.app-main-11:/font/great_vibes.xml"
+    },
+    {
+        "merged": "com.mundobinario.sqliteconpatrondao.app-merged_res-9:/font_calligraffitti.xml.flat",
+        "source": "com.mundobinario.sqliteconpatrondao.app-main-11:/font/calligraffitti.xml"
+    },
+    {
+        "merged": "com.mundobinario.sqliteconpatrondao.app-merged_res-9:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.mundobinario.sqliteconpatrondao.app-main-11:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.mundobinario.sqliteconpatrondao.app-merged_res-9:/layout_activity_main.xml.flat",
+        "source": "com.mundobinario.sqliteconpatrondao.app-main-11:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.mundobinario.sqliteconpatrondao.app-merged_res-9:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.mundobinario.sqliteconpatrondao.app-main-11:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.mundobinario.sqliteconpatrondao.app-merged_res-9:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.mundobinario.sqliteconpatrondao.app-main-11:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.mundobinario.sqliteconpatrondao.app-merged_res-9:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.mundobinario.sqliteconpatrondao.app-main-11:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.mundobinario.sqliteconpatrondao.app-merged_res-9:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.mundobinario.sqliteconpatrondao.app-main-11:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.mundobinario.sqliteconpatrondao.app-merged_res-9:/font_homemade_apple.xml.flat",
+        "source": "com.mundobinario.sqliteconpatrondao.app-main-11:/font/homemade_apple.xml"
+    },
+    {
+        "merged": "com.mundobinario.sqliteconpatrondao.app-merged_res-9:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.mundobinario.sqliteconpatrondao.app-pngs-4:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.mundobinario.sqliteconpatrondao.app-merged_res-9:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.mundobinario.sqliteconpatrondao.app-main-11:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.mundobinario.sqliteconpatrondao.app-merged_res-9:/font_allura.xml.flat",
+        "source": "com.mundobinario.sqliteconpatrondao.app-main-11:/font/allura.xml"
+    },
+    {
+        "merged": "com.mundobinario.sqliteconpatrondao.app-merged_res-9:/font_rock_salt.xml.flat",
+        "source": "com.mundobinario.sqliteconpatrondao.app-main-11:/font/rock_salt.xml"
+    },
+    {
+        "merged": "com.mundobinario.sqliteconpatrondao.app-merged_res-9:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.mundobinario.sqliteconpatrondao.app-main-11:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.mundobinario.sqliteconpatrondao.app-merged_res-9:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.mundobinario.sqliteconpatrondao.app-main-11:/mipmap-mdpi/ic_launcher.png"
+    }
+]

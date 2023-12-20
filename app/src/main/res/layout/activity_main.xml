@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    style="@style/LayoutTheme"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFF"
+    android:orientation="vertical"
+    tools:context=".MainActivity">̣̣̣̣̣̣̣̣̣
+
+
+    <TextView
+        android:id="@+id/titulo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginBottom="5dp"
+        android:fontFamily="@font/great_vibes"
+        android:text="@string/tv_titulo"
+        android:textColor="#FF00C8"
+        android:textSize="30sp"
+        android:textStyle="bold"></TextView>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="15dp"
+            android:orientation="vertical">
+
+            <EditText
+                android:id="@+id/et_alimento"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="@string/tv_hint_alimento"
+                android:textSize="20sp"></EditText>
+
+            <EditText
+                android:id="@+id/et_hidratos"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="@string/tv_hint_hidratos"
+                android:textSize="20sp"
+                android:inputType="number"></EditText>
+
+            <EditText
+                android:id="@+id/et_proteinas"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="@string/tv_hint_proteinas"
+                android:textSize="20sp"
+                android:inputType="number"></EditText>
+
+            <EditText
+                android:id="@+id/et_grasas"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp"
+                android:hint="@string/tv_hint_grasas"
+                android:textSize="20sp"
+                android:inputType="number"></EditText>
+
+        </LinearLayout>
+
+    <Button
+        android:id="@+id/boton_agregar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginBottom="15dp"
+        android:background="#D2FF91FA"
+        android:fontFamily="@font/calligraffitti"
+        android:onClick="botonAgregar"
+        android:text="@string/botonagregar"
+        android:textStyle="bold"></Button>
+
+    <Button
+        android:id="@+id/boton_consultar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginBottom="15dp"
+        android:background="#D2FF91FA"
+        android:fontFamily="@font/calligraffitti"
+        android:onClick="botonConsultar"
+        android:text="@string/botonconsultar"
+        android:textStyle="bold"></Button>
+
+    <Button
+        android:id="@+id/boton_modificar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginBottom="15dp"
+        android:background="#D2FF91FA"
+        android:fontFamily="@font/calligraffitti"
+        android:onClick="botonModificar"
+        android:text="@string/botonmodificar"
+        android:textStyle="bold"></Button>
+
+    <Button
+        android:id="@+id/boton_eliminar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:background="#D2FF91FA"
+        android:fontFamily="@font/calligraffitti"
+        android:onClick="botonEliminar"
+        android:text="@string/botoneliminar"
+        android:textStyle="bold"></Button>
+
+</LinearLayout>

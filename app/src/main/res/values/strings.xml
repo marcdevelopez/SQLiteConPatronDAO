@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SQLiteConPatronDAO</string>
+    <string name="tv_titulo">Mi Despensa</string>
+    <string name="tv_hint_alimento">Nombre del alimento</string>
+    <string name="tv_hint_hidratos">Gramos de hidratos por 100g.</string>
+    <string name="tv_hint_proteinas">Gramos de proteinas por 100g.</string>
+    <string name="tv_hint_grasas">Gramos de grasas por 100g.</string>
+    <string name="botonagregar">agregar</string>
+    <string name="botonconsultar">consultar</string>
+    <string name="botonmodificar">modificar</string>
+    <string name="botoneliminar">eliminar</string>
+</resources>

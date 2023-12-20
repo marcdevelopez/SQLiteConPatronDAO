@@ -1,0 +1,19 @@
+com/mundobinario/sqliteconpatrondao/modelo/entidades/Alimento.java
+ com.mundobinario.sqliteconpatrondao.modelo.entidades.Alimento
+com/mundobinario/sqliteconpatrondao/MainActivity.java
+ com.mundobinario.sqliteconpatrondao.MainActivity
+com/mundobinario/sqliteconpatrondao/vista/Vista.java
+ com.mundobinario.sqliteconpatrondao.vista.Vista
+com/mundobinario/sqliteconpatrondao/modelo/esquema/DespensaContract.java
+ com.mundobinario.sqliteconpatrondao.modelo.esquema.DespensaContract
+ com.mundobinario.sqliteconpatrondao.modelo.esquema.DespensaContract$alimentos
+com/mundobinario/sqliteconpatrondao/modelo/dataccessobject/AlimentosDAO.java
+ com.mundobinario.sqliteconpatrondao.modelo.dataccessobject.AlimentosDAO
+com/mundobinario/sqliteconpatrondao/ConexionDespensaDbHelper.java
+ com.mundobinario.sqliteconpatrondao.ConexionDespensaDbHelper
+com/mundobinario/sqliteconpatrondao/BuildConfig.java
+ com.mundobinario.sqliteconpatrondao.BuildConfig
+com/mundobinario/sqliteconpatrondao/modelo/Logica.java
+ com.mundobinario.sqliteconpatrondao.modelo.Logica
+com/mundobinario/sqliteconpatrondao/controlador/Controlador.java
+ com.mundobinario.sqliteconpatrondao.controlador.Controlador
